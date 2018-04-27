@@ -4958,10 +4958,11 @@ a.badge:focus {
 }
 .jumbotron {
   padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  padding-bottom: 80px;
   color: inherit;
-  background-color: #F97C46;
+  background-image: url(https://github.com/moringaschool/mpft-ip/blob/master/ip2/assets/backgrounds/landing.jpg?raw=true);
+  background-size: cover;
+  background-repeat: no-repeat;
 
 
 }
@@ -5004,7 +5005,7 @@ a.badge:focus {
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 40px;
-    font-family: Helvetica serif;
+    font-family: garamond serif;
     color: white;
   }
 }
