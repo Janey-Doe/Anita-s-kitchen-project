@@ -1,40 +1,21 @@
-#breakfast{
-background-image: url("../images/breakfast.jpg");
-background-size: cover;
-background-repeat: no repeat;
-padding: 80px;
-text-align: center;
-margin-top: 0px;
-color:white;
-font-size: 30px;
+body {
+  font-family: 'Roboto Slab', serif, 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif, 'Open Sans', sans-serif !important;
+
 }
 
-#lunch{
-background-image: url("../images/lunch.jpg");
-background-size: cover;
-background-repeat: no repeat;
-padding: 80px;
-text-align: center;
-margin-top: 0px;
-color:white;
-font-size: 30px;
+.jumbotron {
+  height: 100vh;
 }
 
-#dinner{
-background-image: url("../images/dinner.jpg");
-background-size: cover;
-background-repeat: no repeat;
-padding: 80px;
-text-align: center;
-margin-top: 0px;
-color:white;
-font-size: 30px;
+#jumbotron-logo {
+  width: 400px;
+  height: auto;
 }
 
-#orange{
-  background-color: #F15A29
-}
-
-.fast{
-  width: 100%;
+.jumbotron h1{
+  font-size:4.5em;
+  font-weight: 100;
 }
