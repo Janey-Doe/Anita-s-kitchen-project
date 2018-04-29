@@ -5,17 +5,21 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif, 'Open Sans', sans-serif !important;
 
 }
+#jumbotron
 
-.jumbotron {
-  height: 100vh;
-}
 
 #jumbotron-logo {
   width: 400px;
   height: auto;
 }
 
-.jumbotron h1{
-  font-size:4.5em;
-  font-weight: 100;
+#categories{
+
+}
+#orange{
+  background:orange;
+
+}
+.image2{
+  float:left;
 }
