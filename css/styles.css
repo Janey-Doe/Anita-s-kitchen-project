@@ -1,31 +1,38 @@
 body {
   font-family: 'Roboto Slab', serif, 'Open Sans', sans-serif;
+  color: strong grey;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', serif, 'Open Sans', sans-serif !important;
+h2{
+  background-color: #F15A29;
+  color: white;
+  width:480px;
   text-align: center;
-
+  height:130px;
 }
-
 
 #jumbotron-logo {
   width: 400px;
   height: auto;
+  font-weight: 100;
 }
 
-#orange{
-  background:orange;
+.customers h3{
+  color:#F15A29;
+  text-align:center;
+}
+.cakes{
+    box-shadow: 10px 10px 5px grey;
 
 }
+
+.drinks{
+    box-shadow: 10px 10px 5px grey;
+}
+
 .panel-footer{
-  background-color: #F15A29;
-  height: 300px;
-margin-bottom: 50px;
-}
-.orange{
-  background-color: #F15A29;
-  color: white;
-  height:130px;
+  background-color:#F15A29;
+  height:320px;
   text-align: center;
-  line-height: 150px
+  color:white;
+
 }
